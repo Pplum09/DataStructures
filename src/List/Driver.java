@@ -8,6 +8,7 @@ public class Driver {
 		List list = new List();
 		
 		// test out list operations here
+		list.printList();
 		
 	}
 }
